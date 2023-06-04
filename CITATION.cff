@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this code is some way, please cite it as below."
+authors:
+  - family-names: Escandon Vanegas
+    given-names: Stephan
+    orcid: 
+title: "Optimal Relative Transport"
+version: 2.0.4
+doi: 
+date-released: 2021-08-11
+url: "https://github.com/coolkid1/Optimal-Relative-Transport"
